@@ -1,0 +1,18 @@
+body{
+    background-color: azure;
+}
+
+.navbar{
+    background-color: black;
+}
+
+.form{
+    margin-top: 50px;
+    margin-left: 400px;
+}
+
+.btn-primary{
+    width: 400px;
+    height: 45px;
+    margin-left: 60px;
+}
